@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-**Welcome to the Game Developers Club Repository at UTA!
+**Welcome to VGDO at UTA!
